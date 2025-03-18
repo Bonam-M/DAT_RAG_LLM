@@ -20,7 +20,7 @@ Here is a description of the content of this repository.
 In this notebook, you will find the script to convert PDF files with images to text using GPU for fast processing.
 (See _dat-pdf-books-to-txt.ipynb_)
 
-#### Python Notebook for the 4 RAG-enhanced LLMs pipeline
+#### Python Notebook for the 4 RAG-enhanced LLMs pipelines
 In this notebok, you will find the RAG-enhanced LLMs pipelines for GPT-3.5, GPT-4o, Llama3-8b, and Gemini 1.5 Pro (see _dat-rag-pipeline.ipynb_). The outputs are saved in CSV files. 
 You need API keys added to your environment to run the notebook locally.
 
