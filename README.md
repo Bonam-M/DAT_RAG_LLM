@@ -12,12 +12,6 @@ By grounding the LLMs' responses in this verified medical knowledge, RAG could e
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 200px">  
 
-## What is aithical?
-<img
-  src="https://bonam-m.github.io/aithical/src/aithical_summary1.jpg"
-  alt="Aithical"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 200px">
 
 ### What can you find in this repo?
 Here is a description of the content of this repository.
