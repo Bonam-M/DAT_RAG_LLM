@@ -7,7 +7,7 @@ By grounding the LLMs' responses in this verified medical knowledge, RAG could e
 
 ## Research methodology
 <img
-  src="https://bonam-m.github.io/DAT_RAG_LLM/datrag_process.jpg"
+  src="https://bonam-m.github.io/DAT_RAG_LLM/datrag-process.jpg"
   alt="DAT_RAG_LLM"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 200px">  
