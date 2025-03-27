@@ -3,7 +3,7 @@ DAT_RAG_LLM is a Retrieval-Augmented Generation (RAG) pipeline developed as part
 
 ## How does DAT_RAG_LLM work?
 This RAG pipeline integrates 62 medical text books from the [Hershey Medical School curriculum](https://harrell.library.psu.edu/Textbook) with four state-of-the-art LLMs—GPT-3.5, GPT-4o, Llama3-8b, and Gemini 1.5 Pro to generate medical diagnoses using crowdsourced health-related queries (patient cases).
-The patient cases were collected during a uiversity-wide hackathon called [Diagnose-a-thon](https://csrai.psu.edu/initiatives/diagnose-a-thon) which was followed by our research study.
+The patient cases were collected during a university-wide hackathon called [Diagnose-a-thon](https://csrai.psu.edu/initiatives/diagnose-a-thon) which was followed by our research study.
 By grounding the LLMs' responses in this verified medical knowledge, RAG could enhance LLMs accuracy by addressing limitations such as outdated information or lack of context. 
 
 ## Research methodology
