@@ -9,7 +9,7 @@ By grounding the LLMs' responses in this verified medical knowledge, RAG could e
 <img
   src="https://github.com/Bonam-M/DAT_RAG_LLM/blob/main/datrag-process.jpg"
   alt="DAT_RAG_LLM"
-  title="Optional title"
+  title="RAG implementation for Diagnose-a-thon"
   style="display: inline-block; margin: 0 auto; max-width: 200px">  
 
 ### What can you find in this repo?
